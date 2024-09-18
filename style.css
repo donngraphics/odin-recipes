@@ -1,0 +1,60 @@
+h1 {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+
+
+}
+
+h2 {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.ingBG {
+    background-color: bisque;
+    color: gray;
+    font-size: 20px;
+}
+
+.links {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    font-size: 30px;
+    /* background-color: brown; */
+
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    /* background-color: yellow; */
+
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 149, 203);
+    /* background-color: red; */
+
+}
+
+.main {
+    /* background-color: blue; */
+    text-align: center;
+    display: block;
+
+}
+
+.imgDes {
+    display: inline;
+}
